@@ -6,7 +6,7 @@ Titan 是运行在 TiKV 之上的 redis 协议层，将 TiKV 作为其数据持�
 
 TiKV的部署参阅：https://pingcap.com/docs/op-guide/ansible-deployment/ （使用ansible部署）
 
-测试环境可以手工部署二进制文件： TiKV：https://www.pingcap.com/docs/tikv/deploy-tikv-using-binary/
+也可以手工部署 TiKV：https://www.pingcap.com/docs/tikv/deploy-tikv-using-binary/
 
 ## 部署 Titan
 
